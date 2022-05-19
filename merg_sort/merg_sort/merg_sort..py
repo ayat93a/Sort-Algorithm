@@ -43,7 +43,6 @@ def Merg(left, right, arr):
         return arr
 
 if __name__ =='__main__':
-    print(Mergesort([8,4,23,42,16,15]))
     print(Mergesort([20,18,12,8,5,-2]))
     print(Mergesort([5,12,7,5,5,7]))
-    print(Mergesort([2,3,5,7,13,11]))
+    
