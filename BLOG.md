@@ -16,4 +16,4 @@ In python, merge sort is defined as one of the sorting algorithms which is gener
 
 The figure bellow is the white board that explain the merge sort
 
-![](Untitled%20(2).jpg)
+![](./merg-soet.jpg)
