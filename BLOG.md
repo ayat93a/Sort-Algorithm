@@ -14,4 +14,6 @@ In python, merge sort is defined as one of the sorting algorithms which is gener
 - divide the sub-lists into further sub-lists as atomic problems by following the process in step 2.
 - merge all sub-lists with solutions to get the final list that will be in sorted order.
 
-[White Board](Untitled%20(2).jpg)
+The figure bellow is the white board that explain the merge sort
+
+![](./merg-soet.jpg)
