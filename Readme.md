@@ -1,2 +1,3 @@
 - [Insertion_Sort](./sort/Insertion_Sort/)
 - [merge_sort](./sort/merg_sort/)
+- [Quick_sort](./sort/Quick_Sort/)
